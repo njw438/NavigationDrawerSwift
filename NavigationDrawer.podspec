@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "NavigationDrawer"
+  s.name         = "Test"
   s.version      = "1.0.0"
   s.summary      = "Sliding Menu | Hamburger Style Menu"
 
